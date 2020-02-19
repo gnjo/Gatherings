@@ -7,7 +7,7 @@ if weak attribute, hit to critical and cut half the life.
 treasure select of one.
 enemeys first select the card. alley the reaction.
 
-walk and walk, dgreese the labyrinth level. if LA01 is life - 1.
+walk and walk, degreese the labyrinth level. if LA01 is life - 1.
 ```
 ## card type
 ````
