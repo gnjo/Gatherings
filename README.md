@@ -42,3 +42,9 @@ card5
 redw
 ````
 
+````
+stat
+ viewlist
+ gain to score (use card) score=score*value*0.1
+````
+
