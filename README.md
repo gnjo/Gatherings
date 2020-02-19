@@ -8,7 +8,7 @@ treasure select of one.
 enemeys first select the card. alley the reaction.
 
 walk and walk, degreese the labyrinth level. if LA01 is life - 1.
-if get card LA bounds LA*20. if LA02 getcard ATK 100 > 100+2*20 > 140.
+if get card LA bonus LA*20. if LA02 getcard ATK 100 > 100+2*20 > 140.
 ```
 ## card type
 ````
