@@ -55,5 +55,10 @@ FIR tresure is open the FIR.
 GOD tresure is open the GOD.
 HOL > HOL
 ICE > ICE
+
+1.GETOC: get the card.
+2.ADTHES: add the score.
+3.CARFF: care the full.
+4.OPTIMOW: open the map on wall.
 ```
 
