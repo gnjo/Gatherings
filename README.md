@@ -27,3 +27,8 @@ HEL xyz //border green
 |        ATK 200|
 +---------------+
 ````
+````
+
+stat card1 card2 card3 card4 card5 draw
+````
+
