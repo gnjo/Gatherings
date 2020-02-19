@@ -22,6 +22,7 @@ ICE
 ATK xyz //border red
 BLK xyz //border blue
 CAR xyz //border green
+DRT ??? //border purple
 
 +---------------+
 |Mage        FIR|
