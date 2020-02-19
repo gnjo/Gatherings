@@ -49,3 +49,11 @@ stat
  gain to score (use card) score=score*value*0.1
 ````
 
+## treasure
+```
+FIR tresure is open the FIR.
+GOD tresure is open the GOD.
+HOL > HOL
+ICE > ICE
+```
+
