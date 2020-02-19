@@ -5,7 +5,7 @@
 enemy and alley has the life.
 if weak attribute, hit to critical and cut half the life.
 treasure select of one.
-enemeys first select the card. alley the reaction.
+enemys first select the card. alley the reaction.
 
 walk and walk, degreese the labyrinth level. if LA01 is life - 1.
 if get card LA bonus LA*20. if LA02 getcard ATK 100 > 100+2*20 > 140.
