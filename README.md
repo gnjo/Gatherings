@@ -11,14 +11,14 @@ enemeys first select the card. alley the reaction.
 ````
 1.attribute
 FIR
+GOD //dont weak
+HOL 
 ICE
-THN
-NON //dont weak 
 
 2.action type
 ATK xyz //border red
-DEF xyz //border blue
-HEL xyz //border green
+BLK xyz //border blue
+CAR xyz //border green
 
 +---------------+
 |Mage        FIR|
