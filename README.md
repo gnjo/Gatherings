@@ -28,7 +28,12 @@ HEL xyz //border green
 +---------------+
 ````
 ````
-
-stat card1 card2 card3 card4 card5 draw
+stat
+card1
+card2
+card3
+card4
+card5
+redw
 ````
 
